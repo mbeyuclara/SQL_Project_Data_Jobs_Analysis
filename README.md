@@ -53,7 +53,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![Top Paying Roles](assets\Top_10_Highest-Paying_Data_AnalystJobs.png) 
+![Top Paying Roles](assets/Top_10_Highest-Paying_Data_AnalystJobs.png) 
 
 *Figure 1: Top 10 highest-paying Data Analyst jobs based on average annual salary.*
 
@@ -97,7 +97,7 @@ ORDER BY
 
 ```
 
-![Required Skills for Top Paying jobs](assets\Most_Required_Skills_in_Top-Paying_Data_Analyst_Jobs.png)
+![Required Skills for Top Paying jobs](assets/Most_Required_Skills_in_Top-Paying_Data_Analyst_Jobs.png)
 
 *Figure 2: Demanded Skills for the Top 10 highest-paying Data Analyst jobs.*
 
