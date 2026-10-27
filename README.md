@@ -99,7 +99,7 @@ ORDER BY
 
 ![Required Skills for Top Paying jobs](assets\Most_Required_Skills_in_Top-Paying_Data_Analyst_Jobs.png)
 
-*Figure 1: Demanded Skills for the Top 10 highest-paying Data Analyst jobs.*
+*Figure 2: Demanded Skills for the Top 10 highest-paying Data Analyst jobs.*
 
 The following are the key findings on the most frequently required skills among the 10 highest-paying Data Analyst job postings in the dataset.
 
